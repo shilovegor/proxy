@@ -12,6 +12,6 @@
 Перенаправление запроса с основного сайта на QA сайт</li> 
 <li>  <a href="https://drive.google.com/file/d/1BouUQ0aUp0jJ50o_owGNTrtJQm7PaM9x/view?usp=sharing"> Удаление.</a>  
 Удаление товаров из корзины.</li> 
-<li>  <a href="https://drive.google.com/file/d/18uwy8mU75gkpCxAKwUZkFs-eGrDwwDdF/view?usp=sharing"> Замена.</a>  
+<li>  <a href="https://drive.google.com/file/d/1fL6wWhYc26z_yy534lBn1i64yyClMpJU/view?usp=sharing"> Замена.</a>  
 Замена сайта картинкой.</li> 
  </ul>
